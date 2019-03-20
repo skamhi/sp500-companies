@@ -89,4 +89,7 @@ exports.get = async () => {
     return rows;
 }
 
-//this.get().then((data) => console.log(data));
+
+// this.get().then(list => {
+//     list.forEach(data => console.log(data.symbol, data.description, data.Founded, data.DateFirstAdded));
+// });
