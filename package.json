@@ -1,6 +1,6 @@
 {
   "name": "sp500-companies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Download List of S&P 500 COmpaniew from Wikipedia",
   "main": "index.js",
   "scripts": {
