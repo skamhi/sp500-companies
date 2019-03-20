@@ -1,0 +1,29 @@
+{
+  "name": "sp500-companies",
+  "version": "1.0.0",
+  "description": "Download List of S&P 500 COmpaniew from Wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skamhi/sp500-companies.git"
+  },
+  "keywords": [
+    "stocks",
+    "s&p500"
+  ],
+  "author": "Sami Kamhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skamhi/sp500-companies/issues"
+  },
+  "homepage": "https://github.com/skamhi/sp500-companies#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-tableparser": "^1.0.1",
+    "nodash": "^0.12.0",
+    "node-fetch": "^2.3.0"
+  }
+}
