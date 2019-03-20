@@ -35,4 +35,4 @@ sp500List.get().then(list => {
 
 ## Release History
 
-1.0 - Getting it up and running. Stick requires a better css selector
+1.0 - Upload first operational version
