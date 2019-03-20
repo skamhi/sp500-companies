@@ -6,7 +6,7 @@ List of all S&amp;P500 Companies from Wikipedia
 
 ## Installation
 
-not uploaded to npm yet () npm install sp500-list)
+npm install sp500-list)
 
 ## Usage
 
